@@ -1,10 +1,10 @@
 
-    public class Magic extends Hero{
+public class Magic extends Hero {
 
-        @Override
-        public String appleSuperAbility(String superAbilityType) {
-            return "Mag Primenil " + superAbilityType;
-        }
-
+    @Override
+    public String appleSuperAbility(String superAbilityType) {
+        return "Mag Primenil " + superAbilityType;
     }
+
+}
 

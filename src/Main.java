@@ -8,7 +8,7 @@ public class Main {
         Medic medic = new Medic();
         medic.setHp(250);
         medic.setDamage(0);
-        medic.setTypSuperSkill( medic.appleSuperAbility("Lechenie"));
+        medic.setTypSuperSkill(medic.appleSuperAbility("Lechenie"));
 
 
         Warrior voin = new Warrior();

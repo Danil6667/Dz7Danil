@@ -1,5 +1,5 @@
 
-    public interface HavingSuperAbility {
+public interface HavingSuperAbility {
 
-        String appleSuperAbility(String superAbilityType);
-    }
+    String appleSuperAbility(String superAbilityType);
+}
